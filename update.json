@@ -10,23 +10,14 @@
     "3.6.0": "+ Added config file with gui
 
 + Added scaffolding block
-
 + Added coal, iron, gold, lapis, redstone, diamond, emerald, tin, copper, bronze, jade and amethyst stairs
-
 + Added stone, granite, andesite, diorite, basalt, granite bricks, andesite bricks, diorite bricks, basalt bricks and sandy stone bricks stairs
-
 + Added seamless oak, birch, spruce, jungle, acacia and dark oak log stairs
-
 + Added wooden pattern stairs
-
 + Added MCrafterzz Mod Smaller Building Blocks creative tab
-
 = Moved walls to MCrafterzz Mod Smaller Building Blocks creative tab
-
 = Walls and fences no longer connect to non-opaque blocks for example snow
-
 = New texture for wooden pattern pressure plate
-
 = Vanilla blocks(traodoors, buttons etc) can now be crafted with wooden patterns (config option)
 "
   },
@@ -34,23 +25,14 @@
     "3.6.0": "+ Added config file with gui
 
 + Added scaffolding block
-
 + Added coal, iron, gold, lapis, redstone, diamond, emerald, tin, copper, bronze, jade and amethyst stairs
-
 + Added stone, granite, andesite, diorite, basalt, granite bricks, andesite bricks, diorite bricks, basalt bricks and sandy stone bricks stairs
-
 + Added seamless oak, birch, spruce, jungle, acacia and dark oak log stairs
-
 + Added wooden pattern stairs
-
 + Added MCrafterzz Mod Smaller Building Blocks creative tab
-
 = Moved walls to MCrafterzz Mod Smaller Building Blocks creative tab
-
 = Walls and fences no longer connect to non-opaque blocks for example snow
-
 = New texture for wooden pattern pressure plate
-
 = Vanilla blocks(traodoors, buttons etc) can now be crafted with wooden patterns (config option)
 "
   }
