@@ -9,17 +9,17 @@
     "1.9.4-recommended": "3.6.1"
   },
   "1.10.2": {
-    "3.6.1": "= Recompiled for 1.10.2
+    "3.6.1": "Recompiled for 1.10.2
 Fixed mod not working in 1.9.4
 "
   },
   "1.10": {
-    "3.6.1": "= Recompiled for 1.10.2
+    "3.6.1": "Recompiled for 1.10.2
 Fixed mod not working in 1.9.4
 "
   },
   "1.9.4": {
-    "3.6.1": "= Recompiled for 1.10.2
+    "3.6.1": "Recompiled for 1.10.2
 Fixed mod not working in 1.9.4
 "
   }
