@@ -1,65 +1,35 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/mcrafterzz-mod/files",
   "promos": {
-    "1.10.2-latest": "3.7.0",
-    "1.10.2-recommended": "3.7.0",
-    "1.10-latest": "3.7.0",
-    "1.10-recommended": "3.7.0",
-    "1.9.4-latest": "3.7.0",
-    "1.9.4-recommended": "3.7.0"
+    "1.10.2-latest": "3.7.1",
+    "1.10.2-recommended": "3.7.1",
+    "1.10-latest": "3.7.1",
+    "1.10-recommended": "3.7.1",
+    "1.9.4-latest": "3.7.1",
+    "1.9.4-recommended": "3.7.1"
   },
   "1.10.2": {
-    "3.7.0": "+ = Added
+    "3.7.1": "+ = Added
     = = Changed
     - = Removed
-    + Added jade shield
-+ Added oak log, birch log, spruce log, jungle log, acacia log and dark oak log stairs
-+ Added seamless smooth sandstone stairs and seamless smooth red sandstone stairs
-+ Added prismarine stairs, prismarine bricks stairs and dark prismarine stairs
-+ Added obsidian, bone, red nether bricks, end bricks and dark nether bricks stairs
-= Shields are no longer holded the same when your blocking
-= Moved dark nether bricks fence to MCrafterzz mod smaller building blocks creative tab
-= Wooden pattern stairs can now be crafted from modded stairs (from this mod)
-F Jade not being rarer than diamond when spawning
-F Items and blocks not being registered properly. This prevents problems in the future
-F Flowers y value being messed up when generated
-F Colour blocks and glowing colour blocks having the wrong name
+    F = Fixed
+   F Config file crashing mod on servers
 "
   },
   "1.10": {
-    "3.7.0": "+ = Added
+    "3.7.1": "+ = Added
     = = Changed
     - = Removed
-    + Added jade shield
-+ Added oak log, birch log, spruce log, jungle log, acacia log and dark oak log stairs
-+ Added seamless smooth sandstone stairs and seamless smooth red sandstone stairs
-+ Added prismarine stairs, prismarine bricks stairs and dark prismarine stairs
-+ Added obsidian, bone, red nether bricks, end bricks and dark nether bricks stairs
-= Shields are no longer holded the same when your blocking
-= Moved dark nether bricks fence to MCrafterzz mod smaller building blocks creative tab
-= Wooden pattern stairs can now be crafted from modded stairs (from this mod)
-F Jade not being rarer than diamond when spawning
-F Items and blocks not being registered properly. This prevents problems in the future
-F Flowers y value being messed up when generated
-F Colour blocks and glowing colour blocks having the wrong name
+    F = Fixed
+   F Config file crashing mod on servers
 "
   },
   "1.9.4": {
-    "3.7.0": "+ = Added
+    "3.7.1": "+ = Added
     = = Changed
     - = Removed
-    + Added jade shield
-+ Added oak log, birch log, spruce log, jungle log, acacia log and dark oak log stairs
-+ Added seamless smooth sandstone stairs and seamless smooth red sandstone stairs
-+ Added prismarine stairs, prismarine bricks stairs and dark prismarine stairs
-+ Added obsidian, bone, red nether bricks, end bricks and dark nether bricks stairs
-= Shields are no longer holded the same when your blocking
-= Moved dark nether bricks fence to MCrafterzz mod smaller building blocks creative tab
-= Wooden pattern stairs can now be crafted from modded stairs (from this mod)
-F Jade not being rarer than diamond when spawning
-F Items and blocks not being registered properly. This prevents problems in the future
-F Flowers y value being messed up when generated
-F Colour blocks and glowing colour blocks having the wrong name
+    F = Fixed
+   F Config file crashing mod on servers
 "
   }
 }
