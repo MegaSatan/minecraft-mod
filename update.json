@@ -10,26 +10,26 @@
   },
   "1.10.2": {
     "3.7.1": "+ = Added
-    = = Changed
-    - = Removed
-    F = Fixed
-   F Config file crashing mod on servers
+  = = Changed
+  - = Removed
+  F = Fixed
+  F Config file crashing mod on servers
 "
   },
   "1.10": {
     "3.7.1": "+ = Added
-    = = Changed
-    - = Removed
-    F = Fixed
-   F Config file crashing mod on servers
+  = = Changed
+  - = Removed
+  F = Fixed
+  F Config file crashing mod on servers
 "
   },
   "1.9.4": {
     "3.7.1": "+ = Added
-    = = Changed
-    - = Removed
-    F = Fixed
-   F Config file crashing mod on servers
+  = = Changed
+  - = Removed
+  F = Fixed
+  F Config file crashing mod on servers
 "
   }
 }
