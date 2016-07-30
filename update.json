@@ -1,110 +1,74 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/mcrafterzz-mod/files",
   "promos": {
-    "1.10.2-latest": "3.8.0",
-    "1.10.2-recommended": "3.8.0",
-    "1.10-latest": "3.8.0",
-    "1.10-recommended": "3.8.0",
-    "1.9.4-latest": "3.8.0",
-    "1.9.4-recommended": "3.8.0"
+    "1.10.2-latest": "3.9.0",
+    "1.10.2-recommended": "3.9.0",
+    "1.10-latest": "3.9.0",
+    "1.10-recommended": "3.9.0",
+    "1.9.4-latest": "3.9.0",
+    "1.9.4-recommended": "3.9.0"
   },
   "1.10.2": {
-  "3.8.0": "+ = Added
+  "3.9.0": "+ = Added
 - = Removed
 = = Changed
 F = Fixed
-V. 3.8.0 The hammer update (15/07/16):
-+ Added block of death killing entitys and the players when stepping on it
-+ Added red nether bricks fence
-+ Added nether bricks, dark nether bricks and red nether bricks fence gate
-+ Added 7 new flint and steels
-+ Added 8 hammers
-+ Clay can now spawn underground
-+ Added spawn clay config option
-+ Added config options: block count, chance to spawn, mininum height and maxinum height for all ores, clay and basalt
-+ Added config options: chance to spawn, mininum chance to spawn and maxinum chance to spawn for flowers
-= End bricks stairs is now named end stone bricks stairs
-= Small tweaks
-= Updated to forge 1.10.2 - 12.18.1.2014
-- Removed bluestone
-- Removed blue redstone?
-F Fixed op multitool not being crafteble the other way
-F Fixed wooden pattern stairs not being crafteble from bone stairs
-F Fixed crafting config options not working on fences, stairs and walls
-F Fixed ores and minerals not being registered to the forge ore directory
-F Fixed some ore values being messed up when generating
-F Fixed basalt not spawning
-F Fixed crusher not working at all
-F Fixed multitools breaking some blocks slowly
-F Fixed axes having the wrong attack speed
-F Fixed multitools having the wrong attack speed
-F Fixed multitools not working with some modded blocks
+V. 3.9.0 (30/07/16):
++ Added wooden shears
++ Added 9 scythes
+= Changed a lot of config descriptions
+= 9 nether warts can now be crafted from a nether wart block
+= 4 string can now be crafted from wool or colour changing wool
+= Furnaces can now be crafted from the other stone type, stone bricks and more
+= Updated to forge 12.18.1.2026
+F Fixed /setblocks acting very stangly
+F Fixed hammers not working up and down
+F Fixed enchaments not working on hammers
+F Fixed block's dropping when hammer having a wrong harvest level
+F Fixed amethyst and jade not being able to spawn more common than diamond
+F Fixed copper, tin, basalt and clay not being able to spawn more rarely than diamond 
 "
   },
   "1.10": {
-  "3.8.0": "+ = Added
+  "3.9.0": "+ = Added
 - = Removed
 = = Changed
 F = Fixed
-V. 3.8.0 The hammer update (15/07/16):
-+ Added block of death killing entitys and the players when stepping on it
-+ Added red nether bricks fence
-+ Added nether bricks, dark nether bricks and red nether bricks fence gate
-+ Added 7 new flint and steels
-+ Added 8 hammers
-+ Clay can now spawn underground
-+ Added spawn clay config option
-+ Added config options: block count, chance to spawn, mininum height and maxinum height for all ores, clay and basalt
-+ Added config options: chance to spawn, mininum chance to spawn and maxinum chance to spawn for flowers
-= End bricks stairs is now named end stone bricks stairs
-= Small tweaks
-= Updated to forge 1.10.2 - 12.18.1.2014
-- Removed bluestone
-- Removed blue redstone?
-F Fixed op multitool not being crafteble the other way
-F Fixed wooden pattern stairs not being crafteble from bone stairs
-F Fixed crafting config options not working on fences, stairs and walls
-F Fixed ores and minerals not being registered to the forge ore directory
-F Fixed some ore values being messed up when generating
-F Fixed basalt not spawning
-F Fixed crusher not working at all
-F Fixed multitools breaking some blocks slowly
-F Fixed axes having the wrong attack speed
-F Fixed multitools having the wrong attack speed
-F Fixed multitools not working with some modded blocks
+V. 3.9.0 (30/07/16):
++ Added wooden shears
++ Added 9 scythes
+= Changed a lot of config descriptions
+= 9 nether warts can now be crafted from a nether wart block
+= 4 string can now be crafted from wool or colour changing wool
+= Furnaces can now be crafted from the other stone type, stone bricks and more
+= Updated to forge 12.18.1.2026
+F Fixed /setblocks acting very stangly
+F Fixed hammers not working up and down
+F Fixed enchaments not working on hammers
+F Fixed block's dropping when hammer having a wrong harvest level
+F Fixed amethyst and jade not being able to spawn more common than diamond
+F Fixed copper, tin, basalt and clay not being able to spawn more rarely than diamond 
 "
   },
   "1.9.4": {
-  "3.8.0": "+ = Added
+  "3.9.0": "+ = Added
 - = Removed
 = = Changed
 F = Fixed
-V. 3.8.0 The hammer update (15/07/16):
-+ Added block of death killing entitys and the players when stepping on it
-+ Added red nether bricks fence
-+ Added nether bricks, dark nether bricks and red nether bricks fence gate
-+ Added 7 new flint and steels
-+ Added 8 hammers
-+ Clay can now spawn underground
-+ Added spawn clay config option
-+ Added config options: block count, chance to spawn, mininum height and maxinum height for all ores, clay and basalt
-+ Added config options: chance to spawn, mininum chance to spawn and maxinum chance to spawn for flowers
-= End bricks stairs is now named end stone bricks stairs
-= Small tweaks
-= Updated to forge 1.10.2 - 12.18.1.2014
-- Removed bluestone
-- Removed blue redstone?
-F Fixed op multitool not being crafteble the other way
-F Fixed wooden pattern stairs not being crafteble from bone stairs
-F Fixed crafting config options not working on fences, stairs and walls
-F Fixed ores and minerals not being registered to the forge ore directory
-F Fixed some ore values being messed up when generating
-F Fixed basalt not spawning
-F Fixed crusher not working at all
-F Fixed multitools breaking some blocks slowly
-F Fixed axes having the wrong attack speed
-F Fixed multitools having the wrong attack speed
-F Fixed multitools not working with some modded blocks
+V. 3.9.0 (30/07/16):
++ Added wooden shears
++ Added 9 scythes
+= Changed a lot of config descriptions
+= 9 nether warts can now be crafted from a nether wart block
+= 4 string can now be crafted from wool or colour changing wool
+= Furnaces can now be crafted from the other stone type, stone bricks and more
+= Updated to forge 12.18.1.2026
+F Fixed /setblocks acting very stangly
+F Fixed hammers not working up and down
+F Fixed enchaments not working on hammers
+F Fixed block's dropping when hammer having a wrong harvest level
+F Fixed amethyst and jade not being able to spawn more common than diamond
+F Fixed copper, tin, basalt and clay not being able to spawn more rarely than diamond 
 "
   }
 }
