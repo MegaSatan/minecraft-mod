@@ -14,7 +14,7 @@
 = = Changed
 F = Fixed
 V. 3.9.1 (04/08/16):
-F Fixed hammers not working on "pickaxe blocks"
+F Fixed hammers not working on pickaxe blocks
 "
   },
   "1.10": {
@@ -23,7 +23,7 @@ F Fixed hammers not working on "pickaxe blocks"
 = = Changed
 F = Fixed
 V. 3.9.1 (04/08/16):
-F Fixed hammers not working on "pickaxe blocks"
+F Fixed hammers not working on pickaxe blocks
 "
   },
   "1.9.4": {
@@ -32,7 +32,7 @@ F Fixed hammers not working on "pickaxe blocks"
 = = Changed
 F = Fixed
 V. 3.9.1 (04/08/16):
-F Fixed hammers not working on "pickaxe blocks"
+F Fixed hammers not working on pickaxe blocks
 "
   }
 }
