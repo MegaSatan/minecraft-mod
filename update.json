@@ -1,74 +1,38 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/mcrafterzz-mod/files",
   "promos": {
-    "1.10.2-latest": "3.9.0",
-    "1.10.2-recommended": "3.9.0",
-    "1.10-latest": "3.9.0",
-    "1.10-recommended": "3.9.0",
-    "1.9.4-latest": "3.9.0",
-    "1.9.4-recommended": "3.9.0"
+    "1.10.2-latest": "3.9.1",
+    "1.10.2-recommended": "3.9.1",
+    "1.10-latest": "3.9.1",
+    "1.10-recommended": "3.9.1",
+    "1.9.4-latest": "3.9.1",
+    "1.9.4-recommended": "3.9.1"
   },
   "1.10.2": {
-  "3.9.0": "+ = Added
+  "3.9.1": "+ = Added
 - = Removed
 = = Changed
 F = Fixed
-V. 3.9.0 (30/07/16):
-+ Added wooden shears
-+ Added 9 scythes
-= Changed a lot of config descriptions
-= 9 nether warts can now be crafted from a nether wart block
-= 4 string can now be crafted from wool or colour changing wool
-= Furnaces can now be crafted from the other stone type, stone bricks and more
-= Updated to forge 12.18.1.2026
-F Fixed /setblocks acting very stangly
-F Fixed hammers not working up and down
-F Fixed enchaments not working on hammers
-F Fixed block's dropping when hammer having a wrong harvest level
-F Fixed amethyst and jade not being able to spawn more common than diamond
-F Fixed copper, tin, basalt and clay not being able to spawn more rarely than diamond 
+V. 3.9.1 (04/08/16):
+F Fixed hammers not working on "pickaxe blocks"
 "
   },
   "1.10": {
-  "3.9.0": "+ = Added
+  "3.9.1": "+ = Added
 - = Removed
 = = Changed
 F = Fixed
-V. 3.9.0 (30/07/16):
-+ Added wooden shears
-+ Added 9 scythes
-= Changed a lot of config descriptions
-= 9 nether warts can now be crafted from a nether wart block
-= 4 string can now be crafted from wool or colour changing wool
-= Furnaces can now be crafted from the other stone type, stone bricks and more
-= Updated to forge 12.18.1.2026
-F Fixed /setblocks acting very stangly
-F Fixed hammers not working up and down
-F Fixed enchaments not working on hammers
-F Fixed block's dropping when hammer having a wrong harvest level
-F Fixed amethyst and jade not being able to spawn more common than diamond
-F Fixed copper, tin, basalt and clay not being able to spawn more rarely than diamond 
+V. 3.9.1 (04/08/16):
+F Fixed hammers not working on "pickaxe blocks"
 "
   },
   "1.9.4": {
-  "3.9.0": "+ = Added
+  "3.9.1": "+ = Added
 - = Removed
 = = Changed
 F = Fixed
-V. 3.9.0 (30/07/16):
-+ Added wooden shears
-+ Added 9 scythes
-= Changed a lot of config descriptions
-= 9 nether warts can now be crafted from a nether wart block
-= 4 string can now be crafted from wool or colour changing wool
-= Furnaces can now be crafted from the other stone type, stone bricks and more
-= Updated to forge 12.18.1.2026
-F Fixed /setblocks acting very stangly
-F Fixed hammers not working up and down
-F Fixed enchaments not working on hammers
-F Fixed block's dropping when hammer having a wrong harvest level
-F Fixed amethyst and jade not being able to spawn more common than diamond
-F Fixed copper, tin, basalt and clay not being able to spawn more rarely than diamond 
+V. 3.9.1 (04/08/16):
+F Fixed hammers not working on "pickaxe blocks"
 "
   }
 }
