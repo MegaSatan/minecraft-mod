@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/wall_post",
+    "textures": {
+        "wall": "mm:blocks/tin_block"
+    }
+}

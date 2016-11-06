@@ -1,0 +1,6 @@
+{
+    "parent": "mm:item/shield_blocking",
+    "textures":{
+        "layer0": "mm:items/diamond_shield"
+    }
+}

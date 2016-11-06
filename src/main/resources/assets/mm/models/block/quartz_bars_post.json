@@ -1,0 +1,8 @@
+{
+    "parent": "mm:block/bars_post",
+    "textures": {
+        "particle": "mm:blocks/quartz_bars",
+        "bars": "mm:blocks/quartz_bars",
+        "edge": "mm:blocks/quartz_bars"
+    }
+}

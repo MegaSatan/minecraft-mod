@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "powered=false": { "model": "mm:tin_pressure_plate_up" },
+        "powered=true": { "model": "mm:tin_pressure_plate_down" }
+    }
+}
+

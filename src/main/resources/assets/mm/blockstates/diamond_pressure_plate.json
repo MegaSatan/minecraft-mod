@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "mm:diamond_pressure_plate_up" },
+        "powered=true": { "model": "mm:diamond_pressure_plate_down" }
+    }
+}

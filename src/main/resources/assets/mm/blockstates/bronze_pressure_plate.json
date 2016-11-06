@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "powered=false": { "model": "mm:bronze_pressure_plate_up" },
+        "powered=true": { "model": "mm:bronze_pressure_plate_down" }
+    }
+}
+

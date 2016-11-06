@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "mm:amethyst_pressure_plate_up" },
+        "powered=true": { "model": "mm:amethyst_pressure_plate_down" }
+    }
+}

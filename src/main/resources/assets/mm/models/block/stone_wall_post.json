@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/wall_post",
+    "textures": {
+        "wall": "blocks/stone"
+    }
+}

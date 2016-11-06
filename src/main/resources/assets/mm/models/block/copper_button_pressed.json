@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/button_pressed",
+    "textures": {
+        "texture": "mm:blocks/copper_block"
+    }
+}

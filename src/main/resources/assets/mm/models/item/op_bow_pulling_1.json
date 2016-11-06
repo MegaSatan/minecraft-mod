@@ -1,0 +1,6 @@
+{
+    "parent": "mm:item/op_bow",
+    "textures": {
+        "layer0": "mm:items/op_bow_pulling_1"
+    }
+}

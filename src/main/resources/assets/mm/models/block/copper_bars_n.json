@@ -1,0 +1,8 @@
+{
+    "parent": "mm:block/bars_n",
+    "textures": {
+        "particle": "mm:blocks/copper_bars",
+        "bars": "mm:blocks/copper_bars",
+        "edge": "mm:blocks/copper_bars"
+    }
+}

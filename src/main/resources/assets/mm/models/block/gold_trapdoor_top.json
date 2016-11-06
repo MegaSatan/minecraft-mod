@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/trapdoor_top",
+    "textures": {
+        "texture": "mm:blocks/gold_trapdoor"
+    }
+}

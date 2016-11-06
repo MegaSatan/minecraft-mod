@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/wall_inventory",
+    "textures": {
+        "wall": "mm:blocks/bronze_block"
+    }
+}

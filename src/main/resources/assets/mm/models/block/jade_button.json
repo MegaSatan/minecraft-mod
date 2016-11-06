@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/button",
+    "textures": {
+        "texture": "mm:blocks/jade_block"
+    }
+}

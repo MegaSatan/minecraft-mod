@@ -1,0 +1,16 @@
+[
+{
+"modid": "mm",
+"name": "MCrafterzz mod",
+"description": "This mod adds new ores, tools, armour and a lot of building blocks. You can always find info about this mod on: http://minecraft.curseforge.com/projects/mcrafterzz-mod/ There will probably be updates atleaset once a week",
+"version": "3.9.1",
+"mcversion": "1.10.2",
+"url": "",
+"updateUrl": "",
+"authorList": ["MCrafterzz"],
+"credits": "MCrafterzz for making this mod",
+"logoFile": "",
+"screenshots": [],
+"dependencies": []
+}
+]

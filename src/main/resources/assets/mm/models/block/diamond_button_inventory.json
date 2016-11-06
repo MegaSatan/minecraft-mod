@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/button_inventory",
+    "textures": {
+        "texture": "blocks/diamond_block"
+    }
+}

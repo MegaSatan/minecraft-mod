@@ -1,0 +1,6 @@
+{
+    "parent": "mm:block/fence_side",
+    "textures": {
+        "texture": "mm:blocks/dark_nether_bricks"
+    }
+}

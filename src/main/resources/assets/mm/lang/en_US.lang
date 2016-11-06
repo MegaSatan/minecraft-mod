@@ -1,0 +1,537 @@
+// Ingots
+item.amethyst.name=Amethyst
+item.jade.name=Jade
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.bronze_ingot.name=Bronze Ingot
+
+// Armour
+item.amethyst_helmet.name=Amethyst Helmet
+item.amethyst_chestplate.name=Amethyst Chestplate
+item.amethyst_leggings.name=Amethyst Leggings
+item.amethyst_boots.name=Amethyst Boots
+item.jade_helmet.name=Jade Helmet
+item.jade_chestplate.name=Jade Chestplate
+item.jade_leggings.name=Jade Leggings
+item.jade_boots.name=Jade Boots
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+item.bronze_helmet.name=Bronze Helmet
+item.bronze_chestplate.name=Bronze Chestplate
+item.bronze_leggings.name=Bronze Leggings
+item.bronze_boots.name=Bronze Boots
+
+// Tools
+item.wooden_shears.name=Wooden Shears
+item.stone_shears.name=Stone Shears
+item.gold_shears.name=Gold Shears
+item.diamond_shears.name=Diamond Shears
+item.diamond_multitool.name=Diamond Multitool
+item.op_multitool.name=Op Multitool
+item.amethyst_sword.name=Amethyst Sword
+item.amethyst_pickaxe.name=Amethyst Pickaxe
+item.amethyst_axe.name=Amethyst Axe
+item.amethyst_shovel.name=Amethyst Shovel
+item.amethyst_hoe.name=Amethyst Hoe
+item.amethyst_multitool.name=Amethyst Multitool
+item.amethyst_shears.name=Amethyst Shears
+item.jade_sword.name=Jade Sword
+item.jade_pickaxe.name=Jade Pickaxe
+item.jade_axe.name=Jade Axe
+item.jade_shovel.name=Jade Shovel
+item.jade_hoe.name=Jade Hoe
+item.jade_multitool.name=Jade Multitool
+item.jade_shears.name=Jade Shears
+item.copper_sword.name=Copper Sword
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_axe.name=Copper Axe
+item.copper_shovel.name=Copper Shovel
+item.copper_hoe.name=Copper Hoe
+item.copper_multitool.name=Copper Multitool
+item.copper_shears.name=Copper Shears
+item.bronze_sword.name=Bronze Sword
+item.bronze_pickaxe.name=Bronze Pickaxe
+item.bronze_axe.name=Bronze Axe
+item.bronze_shovel.name=Bronze Shovel
+item.bronze_hoe.name=Bronze Hoe
+item.bronze_multitool.name=Bronze Multitool
+item.bronze_shears.name=Bronze Shears
+
+// Shields
+item.stone_shield.name=Stone Shield
+item.iron_shield.name=Iron Shield
+item.gold_shield.name=Gold Shield
+item.diamond_shield.name=Diamond Shield
+item.copper_shield.name=Copper Shield
+item.bronze_shield.name=Bronze Shield
+item.jade_shield.name=Jade Shield
+item.amethyst_shield.name=Amethyst Shield
+
+// Bows
+item.stone_bow.name=Stone Bow
+item.iron_bow.name=Iron Bow
+item.gold_bow.name=Gold Bow
+item.diamond_bow.name=Diamond Bow
+item.copper_bow.name=Copper Bow
+item.bronze_bow.name=Bronze Bow
+item.jade_bow.name=Jade Bow
+item.amethyst_bow.name=Amethyst Bow
+item.op_bow.name=Op Bow
+
+// Flint and ingots
+item.flint_and_wood.name=Flint And Wood
+item.flint_and_stone.name=Flint And Stone
+item.flint_and_gold.name=Flint And Gold
+item.flint_and_diamond.name=Flint And Diamond
+item.flint_and_copper.name=Flint And Copper
+item.flint_and_bronze.name=Flint And Bronze
+item.flint_and_jade.name=Flint And Jade
+item.flint_and_amethyst.name=Flint And Amethyst
+
+// Hammers
+item.wooden_hammer.name=Wooden Hammer
+item.stone_hammer.name=Stone Hammer
+item.iron_hammer.name=Iron Hammer
+item.gold_hammer.name=Gold Hammer
+item.diamond_hammer.name=Diamond Hammer
+item.copper_hammer.name=Copper Hammer
+item.bronze_hammer.name=Bronze Hammer
+item.jade_hammer.name=Jade Hammer
+item.amethyst_hammer.name=Amethyst Hammer
+
+// Scythes
+item.wooden_scythe.name=Wooden Scythe
+item.stone_scythe.name=Stone Scythe
+item.iron_scythe.name=Iron Scythe
+item.gold_scythe.name=Gold Scythe
+item.diamond_scythe.name=Diamond Scythe
+item.copper_scythe.name=Copper Scythe
+item.bronze_scythe.name=Bronze Scythe
+item.jade_scythe.name=Jade Scythe
+item.amethyst_scythe.name=Amethyst Scythe
+
+// Ore blocks
+tile.amethyst_block.name=Amethyst Block
+tile.jade_block.name=Jade Block
+tile.copper_block.name=Copper Block
+tile.tin_block.name=Tin Block
+tile.bronze_block.name=Bronze Block
+tile.amethyst_ore.name=Amethyst Ore
+tile.jade_ore.name=Jade Ore
+tile.copper_ore.name=Copper Ore
+tile.tin_ore.name=Tin Ore
+
+// Pressure plates
+tile.diamond_pressure_plate.name=Diamond Pressure Plate
+tile.copper_pressure_plate.name=Copper Pressure Plate
+tile.tin_pressure_plate.name=Tin Pressure Plate
+tile.bronze_pressure_plate.name=Bronze Pressure Plate
+tile.amethyst_pressure_plate.name=Amethyst Pressure Plate
+tile.jade_pressure_plate.name=Jade Pressure Plate
+tile.emerald_pressure_plate.name=Emerald Pressure Plate
+tile.quartz_pressure_plate.name=Quartz Pressure Plate
+
+// Bars
+tile.stone_bars.name=Stone Bars
+tile.gold_bars.name=Gold Bars
+tile.diamond_bars.name=Diamond Bars
+tile.copper_bars.name=Copper Bars
+tile.tin_bars.name=Tin Bars
+tile.bronze_bars.name=Bronze Bars
+tile.amethyst_bars.name=Amethyst Bars
+tile.jade_bars.name=Jade Bars
+tile.emerald_bars.name=Emerald Bars
+tile.quartz_bars.name=Quartz Bars
+
+// Trapdoors
+tile.stone_trapdoor.name=Stone Trapdoor
+tile.gold_trapdoor.name=Gold Trapdoor
+tile.diamond_trapdoor.name=Diamond Trapdoor
+tile.copper_trapdoor.name=Copper Trapdoor
+tile.tin_trapdoor.name=Tin Trapdoor
+tile.bronze_trapdoor.name=Bronze Trapdoor
+tile.amethyst_trapdoor.name=Amethyst Trapdoor
+tile.jade_trapdoor.name=Jade Trapdoor
+tile.emerald_trapdoor.name=Emerald Trapdoor
+tile.quartz_trapdoor.name=Quartz Trapdoor
+
+// Buttons
+tile.iron_button.name=Iron Button
+tile.gold_button.name=Gold Button
+tile.diamond_button.name=Diamond Button
+tile.copper_button.name=Copper Button
+tile.tin_button.name=Tin Button
+tile.bronze_button.name=Bronze Button
+tile.amethyst_button.name=Amethyst Button
+tile.jade_button.name=Jade Button
+tile.emerald_button.name=Emerald Button
+tile.quartz_button.name=Quartz Button
+
+// Fence
+tile.dark_nether_bricks_fence.name=Dark Nether Bricks Fence
+tile.red_nether_bricks_fence.name=Red Nether Bricks Fence
+
+// Fence gates
+tile.nether_bricks_fence_gate.name=Nether Bricks Fence Gate
+tile.dark_nether_bricks_fence_gate.name=Dark Nether Bricks Fence Gate
+tile.red_nether_bricks_fence_gate.name=Red Nether Bricks Fence Gate
+
+// Colour blocks
+tile.colour_block_white.name=Colour Block White
+tile.colour_block_light_gray.name=Colour Block Light Gray
+tile.colour_block_gray.name=Colour Block Gray
+tile.colour_block_black.name=Colour Block Black
+tile.colour_block_light_blue.name=Colour Block Light Blue
+tile.colour_block_cyan.name=Colour Block Cyan
+tile.colour_block_blue.name=Colour Block Blue
+tile.colour_block_light_green.name=Colour Block Light Green
+tile.colour_block_green.name=Colour Block Green
+tile.colour_block_yellow.name=Colour Block Yellow
+tile.colour_block_orange.name=Colour Block Orange
+tile.colour_block_brown.name=Colour Block Brown
+tile.colour_block_magenta.name=Colour Block Magenta
+tile.colour_block_purple.name=Colour Block Purple
+tile.colour_block_pink.name=Colour Block Pink
+tile.colour_block_red.name=Colour Block Red
+tile.colour_changing_block.name=Colour Changing Block
+
+// Glowing colour blocks
+tile.glowing_colour_block_white.name=Glowing Colour Block White
+tile.glowing_colour_block_light_gray.name=Glowing Colour Block Light Gray
+tile.glowing_colour_block_gray.name=Glowing Colour Block Gray
+tile.glowing_colour_block_black.name=Glowing Colour Block Black
+tile.glowing_colour_block_light_blue.name=Glowing Colour Block Light Blue
+tile.glowing_colour_block_cyan.name=Glowing Colour Block Cyan
+tile.glowing_colour_block_blue.name=Glowing Colour Block Blue
+tile.glowing_colour_block_light_green.name=Glowing Colour Block Light Green
+tile.glowing_colour_block_green.name=Glowing Colour Block Green
+tile.glowing_colour_block_yellow.name=Glowing Colour Block Yellow
+tile.glowing_colour_block_orange.name=Glowing Colour Block Orange
+tile.glowing_colour_block_brown.name=Glowing Colour Block Brown
+tile.glowing_colour_block_magenta.name=Glowing Colour Block Magenta
+tile.glowing_colour_block_purple.name=Glowing Colour Block Purple
+tile.glowing_colour_block_pink.name=Glowing Colour Block Pink
+tile.glowing_colour_block_red.name=Glowing Colour Block Red
+tile.glowing_colour_changing_block.name=Glowing Colour Changing Block
+
+// Coloured stone bricks
+tile.coloured_stone_bricks_white.name=Coloured Stone Bricks White
+tile.coloured_stone_bricks_light_gray.name=Coloured Stone Bricks Light Gray
+tile.coloured_stone_bricks_gray.name=Coloured Stone Bricks Gray
+tile.coloured_stone_bricks_black.name=Coloured Stone Bricks Black
+tile.coloured_stone_bricks_light_blue.name=Coloured Stone Bricks Light Blue
+tile.coloured_stone_bricks_cyan.name=Coloured Stone Bricks Cyan
+tile.coloured_stone_bricks_blue.name=Coloured Stone Bricks Blue
+tile.coloured_stone_bricks_light_green.name=Coloured Stone Bricks Light Green
+tile.coloured_stone_bricks_green.name=Coloured Stone Bricks Green
+tile.coloured_stone_bricks_yellow.name=Coloured Stone Bricks Yellow
+tile.coloured_stone_bricks_orange.name=Coloured Stone Bricks Orange
+tile.coloured_stone_bricks_brown.name=Coloured Stone Bricks Brown
+tile.coloured_stone_bricks_magenta.name=Coloured Stone Bricks Magenta
+tile.coloured_stone_bricks_purple.name=Coloured Stone Bricks Purple
+tile.coloured_stone_bricks_pink.name=Coloured Stone Bricks Pink
+tile.coloured_stone_bricks_red.name=Coloured Stone Bricks Red
+tile.colour_changing_stone_bricks.name=Colour Changing Stone Bricks
+
+// Glowing coloured stone bricks
+tile.glowing_coloured_stone_bricks_white.name=Glowing Coloured Stone Bricks White
+tile.glowing_coloured_stone_bricks_light_gray.name=Glowing Coloured Stone Bricks Light Gray
+tile.glowing_coloured_stone_bricks_gray.name=Glowing Coloured Stone Bricks Gray
+tile.glowing_coloured_stone_bricks_black.name=Glowing Coloured Stone Bricks Black
+tile.glowing_coloured_stone_bricks_light_blue.name=Glowing Coloured Stone Bricks Light Blue
+tile.glowing_coloured_stone_bricks_cyan.name=Glowing Coloured Stone Bricks Cyan
+tile.glowing_coloured_stone_bricks_blue.name=Glowing Coloured Stone Bricks Blue
+tile.glowing_coloured_stone_bricks_light_green.name=Glowing Coloured Stone Bricks Light Green
+tile.glowing_coloured_stone_bricks_green.name=Glowing Coloured Stone Bricks Green
+tile.glowing_coloured_stone_bricks_yellow.name=Glowing Coloured Stone Bricks Yellow
+tile.glowing_coloured_stone_bricks_orange.name=Glowing Coloured Stone Bricks Orange
+tile.glowing_coloured_stone_bricks_brown.name=Glowing Coloured Stone Bricks Brown
+tile.glowing_coloured_stone_bricks_magenta.name=Glowing Coloured Stone Bricks Magenta
+tile.glowing_coloured_stone_bricks_purple.name=Glowing Coloured Stone Bricks Purple
+tile.glowing_coloured_stone_bricks_pink.name=Glowing Coloured Stone Bricks Pink
+tile.glowing_coloured_stone_bricks_red.name=Glowing Coloured Stone Bricks Red
+tile.glowing_colour_changing_stone_bricks.name=Glowing Colour Changing Stone Bricks
+
+// Coloured stone
+tile.coloured_stone_white.name=Coloured Stone White
+tile.coloured_stone_light_gray.name=Coloured Stone Light Gray
+tile.coloured_stone_gray.name=Coloured Stone Gray
+tile.coloured_stone_black.name=Coloured Stone Black
+tile.coloured_stone_light_blue.name=Coloured Stone Light Blue
+tile.coloured_stone_cyan.name=Coloured Stone Cyan
+tile.coloured_stone_blue.name=Coloured Stone Blue
+tile.coloured_stone_light_green.name=Coloured Stone Light Green
+tile.coloured_stone_green.name=Coloured Stone Green
+tile.coloured_stone_yellow.name=Coloured Stone Yellow
+tile.coloured_stone_orange.name=Coloured Stone Orange
+tile.coloured_stone_brown.name=Coloured Stone Brown
+tile.coloured_stone_magenta.name=Coloured Stone Magenta
+tile.coloured_stone_purple.name=Coloured Stone Purple
+tile.coloured_stone_pink.name=Coloured Stone Pink
+tile.coloured_stone_red.name=Coloured Stone Red
+tile.colour_changing_stone.name=Colour Changing Stone
+
+// Glowing coloured stone
+tile.glowing_coloured_stone_white.name=Glowing Coloured Stone White
+tile.glowing_coloured_stone_light_gray.name=Glowing Coloured Stone Light Gray
+tile.glowing_coloured_stone_gray.name=Glowing Coloured Stone Gray
+tile.glowing_coloured_stone_black.name=Glowing Coloured Stone Black
+tile.glowing_coloured_stone_light_blue.name=Glowing Coloured Stone Light Blue
+tile.glowing_coloured_stone_cyan.name=Glowing Coloured Stone Cyan
+tile.glowing_coloured_stone_blue.name=Glowing Coloured Stone Blue
+tile.glowing_coloured_stone_light_green.name=Glowing Coloured Stone Light Green
+tile.glowing_coloured_stone_green.name=Glowing Coloured Stone Green
+tile.glowing_coloured_stone_yellow.name=Glowing Coloured Stone Yellow
+tile.glowing_coloured_stone_orange.name=Glowing Coloured Stone Orange
+tile.glowing_coloured_stone_brown.name=Glowing Coloured Stone Brown
+tile.glowing_coloured_stone_magenta.name=Glowing Coloured Stone Magenta
+tile.glowing_coloured_stone_purple.name=Glowing Coloured Stone Purple
+tile.glowing_coloured_stone_pink.name=Glowing Coloured Stone Pink
+tile.glowing_coloured_stone_red.name=Glowing Coloured Stone Red
+tile.glowing_colour_changing_stone.name=Glowing Colour Changing Stone
+
+// Coloured cobblestone
+tile.coloured_cobblestone_white.name=Coloured Cobblestone White
+tile.coloured_cobblestone_light_gray.name=Coloured Cobblestone Light Gray
+tile.coloured_cobblestone_gray.name=Coloured Cobblestone Gray
+tile.coloured_cobblestone_black.name=Coloured Cobblestone Black
+tile.coloured_cobblestone_light_blue.name=Coloured Cobblestone Light Blue
+tile.coloured_cobblestone_cyan.name=Coloured Cobblestone Cyan
+tile.coloured_cobblestone_blue.name=Coloured Cobblestone Blue
+tile.coloured_cobblestone_light_green.name=Coloured Cobblestone Light Green
+tile.coloured_cobblestone_green.name=Coloured Cobblestone Green
+tile.coloured_cobblestone_yellow.name=Coloured Cobblestone Yellow
+tile.coloured_cobblestone_orange.name=Coloured Cobblestone Orange
+tile.coloured_cobblestone_brown.name=Coloured Cobblestone Brown
+tile.coloured_cobblestone_magenta.name=Coloured Cobblestone Magenta
+tile.coloured_cobblestone_purple.name=Coloured Cobblestone Purple
+tile.coloured_cobblestone_pink.name=Coloured Cobblestone Pink
+tile.coloured_cobblestone_red.name=Coloured Cobblestone Red
+tile.colour_changing_cobblestone.name=Colour Changing Cobblestone
+
+// Glowing coloured cobblestone
+tile.glowing_coloured_cobblestone_white.name=Glowing Coloured Cobblestone White
+tile.glowing_coloured_cobblestone_light_gray.name=Glowing Coloured Cobblestone Light Gray
+tile.glowing_coloured_cobblestone_gray.name=Glowing Coloured Cobblestone Gray
+tile.glowing_coloured_cobblestone_black.name=Glowing Coloured Cobblestone Black
+tile.glowing_coloured_cobblestone_light_blue.name=Glowing Coloured Cobblestone Light Blue
+tile.glowing_coloured_cobblestone_cyan.name=Glowing Coloured Cobblestone Cyan
+tile.glowing_coloured_cobblestone_blue.name=Glowing Coloured Cobblestone Blue
+tile.glowing_coloured_cobblestone_light_green.name=Glowing Coloured Cobblestone Light Green
+tile.glowing_coloured_cobblestone_green.name=Glowing Coloured Cobblestone Green
+tile.glowing_coloured_cobblestone_yellow.name=Glowing Coloured Cobblestone Yellow
+tile.glowing_coloured_cobblestone_orange.name=Glowing Coloured Cobblestone Orange
+tile.glowing_coloured_cobblestone_brown.name=Glowing Coloured Cobblestone Brown
+tile.glowing_coloured_cobblestone_magenta.name=Glowing Coloured Cobblestone Magenta
+tile.glowing_coloured_cobblestone_purple.name=Glowing Coloured Cobblestone Purple
+tile.glowing_coloured_cobblestone_pink.name=Glowing Coloured Cobblestone Pink
+tile.glowing_coloured_cobblestone_red.name=Glowing Coloured Cobblestone Red
+tile.glowing_colour_changing_cobblestone.name=Glowing Colour Changing Cobblestone
+
+// Seamless blocks
+tile.seamless_stone_slab.name=Seamless Stone Slab
+tile.seamless_oak_log.name=Seamless Oak Log
+tile.seamless_birch_log.name=Seamless Birch Log
+tile.seamless_spruce_log.name=Seamless Spruce Log
+tile.seamless_jungle_log.name=Seamless Jungle Log
+tile.seamless_acacia_log.name=Seamless Acacia Log
+tile.seamless_dark_oak_log.name=Seamless Dark Oak Log
+tile.seamless_smooth_sandstone.name=Seamless Smooth Sandstone
+tile.seamless_smooth_red_sandstone.name=Seamless Smooth Red Sandstone
+
+// Map making blocks
+tile.invisible_pressure_plate.name=Invisible Pressure Plate
+tile.glowing_barrier.name=Glowing Barrier
+tile.glowing_air.name=Glowing Air
+tile.block_of_death.name=Block Of Death
+
+// Machines
+tile.crusher.name=Crusher
+
+// World
+tile.yellow_tulip.name=Yellow Tulip
+tile.blue_tulip.name=Blue Tulip
+tile.black_tulip.name=Black Tulip
+tile.green_tulip.name=Green Tulip
+tile.purple_tulip.name=Purple Tulip
+
+// Misc blocks
+tile.null_block.name=Null Block
+tile.scaffolding_block.name=Scaffolding Block
+tile.colour_changing_wool.name=Colour Changing Wool
+tile.colour_changing_clay.name=Colour Changing Clay
+tile.colour_changing_glass.name=Colour Changing Glass
+
+// Stone blocks
+tile.basalt.name=Basalt
+tile.basalt_bricks.name=Basalt Bricks
+tile.polished_basalt.name=Polished Basalt
+tile.polished_stone.name=Polished Stone
+tile.granite_bricks.name=Granite Bricks
+tile.andesite_bricks.name=Andesite Bricks
+tile.diorite_bricks.name=Diorite Bricks
+tile.sandy_bricks.name=Sandy Bricks
+tile.sandy_stone_bricks.name=Sandy Stone Bricks
+
+// Nether blocks
+tile.dark_nether_bricks.name=Dark Nether Bricks
+
+// Patterns
+item.wooden_pattern.name=Wooden Pattern
+item.wooden_pattern_bars.name=Wooden Pattern Bars
+item.wooden_pattern_button.name=Wooden Pattern Button
+item.wooden_pattern_pressure_plate.name=Wooden Pattern Pressure Plate
+item.wooden_pattern_trapdoor.name=Wooden Pattern Trapdoor
+item.wooden_pattern_wall.name=Wooden Pattern Wall
+item.wooden_pattern_fence.name=Wooden Pattern Fence
+item.wooden_pattern_fence_gate.name=Wooden Pattern Fence Gate
+item.wooden_pattern_stairs.name=Wooden Pattern Stairs
+
+// Chests
+tile.iron_chest.name=Iron Chest
+
+// Fluids
+fluid.enderium=Enderium
+
+// Buckets
+item.bucket_of_enderium.name=Bucket Of Enderium
+
+// Metal walls
+tile.iron_wall.name=Iron Wall
+tile.gold_wall.name=Gold Wall
+tile.diamond_wall.name=Diamond Wall
+tile.emerald_wall.name=Emerald Wall
+tile.quartz_wall.name=Quartz Wall
+tile.copper_wall.name=Copper Wall
+tile.tin_wall.name=Tin Wall
+tile.bronze_wall.name=Bronze Wall
+tile.jade_wall.name=Jade Wall
+tile.amethyst_wall.name=Amethyst Wall
+
+// Walls
+tile.stone_wall.name=Stone Wall
+tile.granite_wall.name=Granite Wall
+tile.andesite_wall.name=Andesite Wall
+tile.diorite_wall.name=Diorite Wall
+tile.basalt_wall.name=Basalt Wall
+tile.brick_wall.name=Brick Wall
+tile.stonebrick_wall.name=Stonebrick Wall
+tile.andesite_bricks_wall.name=Andesite Bricks Wall
+tile.diorite_bricks_wall.name=Diorite Bricks Wall
+tile.granite_bricks_wall.name=Granite Bricks Wall
+tile.basalt_bricks_wall.name=Basalt Bricks Wall
+tile.sandy_stone_bricks_wall.name=Sandy Stone Bricks Wall
+
+// Metal stairs
+tile.coal_stairs.name=Coal Stairs
+tile.iron_stairs.name=Iron Stairs
+tile.gold_stairs.name=Gold Stairs
+tile.lapis_stairs.name=Lapis Stairs
+tile.redstone_stairs.name=Redstone Stairs
+tile.diamond_stairs.name=Diamond Stairs
+tile.emerald_stairs.name=Emerald Stairs
+tile.tin_stairs.name=Tin Stairs
+tile.copper_stairs.name=Copper Stairs
+tile.bronze_stairs.name=Bronze Stairs
+tile.jade_stairs.name=Jade Stairs
+tile.amethyst_stairs.name=Amethyst Stairs
+
+// Stone stairs
+tile.stone_stairs.name=Stone Stairs
+tile.granite_stairs.name=Granite Stairs
+tile.andesite_stairs.name=Andesite Stairs
+tile.diorite_stairs.name=Diorite Stairs
+tile.basalt_stairs.name=Basalt Stairs
+tile.granite_bricks_stairs.name=Granite Bricks Stairs
+tile.andesite_bricks_stairs.name=Andesite Bricks Stairs
+tile.diorite_bricks_stairs.name=Diorite Bricks Stairs
+tile.basalt_bricks_stairs.name=Basalt Bricks Stairs
+tile.sandy_stone_bricks_stairs.name=Sandy Stone Bricks Stairs
+
+// Wood stairs
+tile.oak_log_stairs.name=Oak Log Stairs
+tile.birch_log_stairs.name=Birch Log Stairs
+tile.spruce_log_stairs.name=Spruce Log Stairs
+tile.jungle_log_stairs.name=Jungle Log Stairs
+tile.acacia_log_stairs.name=Acacia Log Stairs
+tile.dark_oak_log_stairs.name=Dark Oak Log Stairs
+tile.seamless_oak_log_stairs.name=Seamless Oak Log Stairs
+tile.seamless_birch_log_stairs.name=Seamless Birch Log Stairs
+tile.seamless_spruce_log_stairs.name=Seamless Spruce Log Stairs
+tile.seamless_jungle_log_stairs.name=Seamless Jungle Log Stairs
+tile.seamless_acacia_log_stairs.name=Seamless Acacia Log Stairs
+tile.seamless_dark_oak_log_stairs.name=Seamless Dark Oak Log Stairs
+
+// Sandstone stairs
+tile.seamless_smooth_sandstone_stairs.name=Seamless Smooth Sandstone Stairs
+tile.seamless_smooth_red_sandstone_stairs.name=Seamless Smooth Red Sandstone Stairs
+
+// Prismarine stairs
+tile.prismarine_stairs.name=Prismarine Stairs
+tile.prismarine_bricks_stairs.name=Prismarine Bricks Stairs
+tile.dark_prismarine_stairs.name=Dark Prismarine Stairs
+
+// Misc stairs
+tile.obsidian_stairs.name=Obsidian Stairs
+tile.end_stone_bricks_stairs.name=End Stone Bricks Stairs
+tile.bone_stairs.name=Bone Stairs
+tile.red_nether_bricks_stairs.name=Red Nether Bricks Stairs
+tile.dark_nether_bricks_stairs.name=Dark Nether Bricks Stairs
+
+// Contianers
+container.tile_entity_crusher.name=Crusher
+container.tile_entity_iron_chest.name=Iron Chest
+
+// Creative tabs
+itemGroup.creativeTab=MCrafterzz Mod
+itemGroup.creativeTabTools=MCrafterzz Mod Tools/Armour
+itemGroup.creativeTabBuilding=MCrafterzz Mod Building/Redstone
+itemGroup.creativeTabMapMaking=MCrafterzz Mod Map Making
+itemGroup.creativeTabWorkInProgress=MCrafterzz Mod Work In Progress
+itemGroup.creativeTabWorld=MCrafterzz Mod World
+itemGroup.creativeTabSmallerBuildingBlocks=MCrafterzz Mod Smaller Building Blocks
+
+// Commands
+commands.setblocks.failed=No blocks filled
+commands.setblocks.outOfWorld=One or more target blocks are in an unloaded or invalid location
+commands.setblocks.success=%s blocks filled
+commands.setblocks.tagError=Invalid data tag: %s
+commands.setblocks.tooManyBlocks=Too many blocks in the specified area (%s > %s)
+commands.setblocks.usage=/setblocks <x1> <y1> <z1> <x2> <y2> <z2> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+commands.mm.name=Name: MCrafterzz Mod
+commands.mm.modid=Mod Id: mm
+commands.mm.version=Version: 3.9.1
+commands.mm.minecraftversion=Minecraft Version: 1.9.4, 1.10, 1.10.2
+commands.mm.creator=Creator: MCrafterzz
+commands.mm.updatepage=Update Page: http://minecraft.curseforge.com/projects/mcrafterzz-mod/
+commands.tpdimension.usage=/tpdimension <DimensionId> OR /tpdimension <Entity> <DimensionId>
+commands.tpdimension.success=Teleported %s to dimension %s
+
+// Achievements
+achievement.copperminer=Copper Miner
+achievement.copperminer.desc=Find a copper ore and mine it
+achievement.tinminer=Tin Miner
+achievement.tinminer.desc=Find a tin ore and mine it
+achievement.bronzecreator=Bronze Creator
+achievement.bronzecreator.desc=Craft a bronze ingot from one tin ingot and three copper ingots
+achievement.amethystminer=Amethyst Miner
+achievement.amethystminer.desc=Find a amethyst ore and mine it
+achievement.diamondUpgrade=Diamond Upgrade
+achievement.diamondUpgrade.desc=Craft a diamond multitool from a diamond sword, pickaxe, axe, shovel and hoe
+achievement.amethystUpgrade=Amethyst Upgrade
+achievement.amethystUpgrade.desc=Craft a amethyst multitool from a amethyst sword, pickaxe, axe, shovel and hoe
+achievement.theOpTool=The Op Tool
+achievement.theOpTool.desc=Craft a op multitool from 4 amethyst blocks, 4 amethyst multitools and a nether star
+achievement.moreFlowers=More Flowers!
+achievement.moreFlowers.desc=Grab a blue, black, yellow, green or purple tulip
+
+// Config
+worldgeneration=World Generation
+advancedworldgeneration=Advanced World Generation
+crafting=Crafting
+
+// Death Sources
+death.attack.deathBlock=%1$s discovered that death blocks are dangerous
+death.attack.deathBlock.player=%1$s discovered that death blocks are dangerous while fighting %2$s

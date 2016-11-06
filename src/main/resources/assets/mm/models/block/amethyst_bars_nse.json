@@ -1,0 +1,8 @@
+{
+    "parent": "mm:block/bars_nse",
+    "textures": {
+        "particle": "mm:blocks/amethyst_bars",
+        "bars": "mm:blocks/amethyst_bars",
+        "edge": "mm:blocks/amethyst_bars"
+    }
+}
