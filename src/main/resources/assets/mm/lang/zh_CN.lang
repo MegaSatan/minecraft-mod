@@ -1,0 +1,531 @@
+﻿// Ingots
+item.amethyst.name=紫晶
+item.jade.name=绿玉
+item.copper_ingot.name=铜锭
+item.tin_ingot.name=锡锭
+item.bronze_ingot.name=青铜锭
+
+// Armour
+item.amethyst_helmet.name=紫晶头盔
+item.amethyst_chestplate.name=紫晶胸甲
+item.amethyst_leggings.name=紫晶护腿
+item.amethyst_boots.name=紫晶靴子
+item.jade_helmet.name=绿玉头盔
+item.jade_chestplate.name=绿玉胸甲
+item.jade_leggings.name=绿玉护腿
+item.jade_boots.name=绿玉靴子
+item.copper_helmet.name=铜头盔
+item.copper_chestplate.name=铜胸甲
+item.copper_leggings.name=铜护腿
+item.copper_boots.name=铜靴子
+item.bronze_helmet.name=青铜头盔
+item.bronze_chestplate.name=青铜胸甲
+item.bronze_leggings.name=青铜护腿
+item.bronze_boots.name=青铜靴子
+
+// Tools
+item.wooden_shears.name=木质剪刀
+item.stone_shears.name=石质剪刀
+item.gold_shears.name=金质剪刀
+item.diamond_shears.name=钻石剪刀
+item.diamond_multitool.name=钻石多功能工具
+item.op_multitool.name=终极多功能工具
+item.amethyst_sword.name=紫晶剑
+item.amethyst_pickaxe.name=紫晶镐
+item.amethyst_axe.name=紫晶斧
+item.amethyst_shovel.name=紫晶铲
+item.amethyst_hoe.name=紫晶锄
+item.amethyst_multitool.name=紫晶多功能工具
+item.amethyst_shears.name=紫晶剪刀
+item.jade_sword.name=绿玉剑
+item.jade_pickaxe.name=绿玉镐
+item.jade_axe.name=绿玉斧
+item.jade_shovel.name=绿玉铲
+item.jade_hoe.name=绿玉锄
+item.jade_multitool.name=绿玉多功能工具
+item.jade_shears.name=绿玉剪刀
+item.copper_sword.name=铜剑
+item.copper_pickaxe.name=铜镐
+item.copper_axe.name=铜斧
+item.copper_shovel.name=铜铲
+item.copper_hoe.name=铜锄
+item.copper_multitool.name=铜质多功能工具
+item.copper_shears.name=铜剪刀
+item.bronze_sword.name=青铜剑
+item.bronze_pickaxe.name=青铜镐
+item.bronze_axe.name=青铜斧
+item.bronze_shovel.name=青铜铲
+item.bronze_hoe.name=青铜锄
+item.bronze_multitool.name=青铜多功能工具
+item.bronze_shears.name=青铜剪刀
+
+// Shields
+item.stone_shield.name=石质盾牌
+item.iron_shield.name=铁质盾牌
+item.gold_shield.name=金质盾牌
+item.diamond_shield.name=钻石盾牌
+item.copper_shield.name=铜盾牌
+item.bronze_shield.name=青铜盾牌
+item.jade_shield.name=绿玉盾牌
+item.amethyst_shield.name=紫晶盾牌
+
+// Bows
+item.stone_bow.name=石弓
+item.iron_bow.name=铁弓
+item.gold_bow.name=金弓
+item.diamond_bow.name=钻石弓
+item.copper_bow.name=铜弓
+item.bronze_bow.name=青铜弓
+item.jade_bow.name=绿玉弓
+item.amethyst_bow.name=紫晶弓
+item.op_bow.name=终极弓
+
+// Flint and ingots
+item.flint_and_wood.name=木质打火石
+item.flint_and_stone.name=石质打火石
+item.flint_and_gold.name=金质打火石
+item.flint_and_diamond.name=钻石打火石
+item.flint_and_copper.name=铜质打火石
+item.flint_and_bronze.name=青铜打火石
+item.flint_and_jade.name=绿玉打火石
+item.flint_and_amethyst.name=紫晶打火石
+
+// Hammers
+item.wooden_hammer.name=木锤
+item.stone_hammer.name=石锤
+item.iron_hammer.name=铁锤
+item.gold_hammer.name=金锤
+item.diamond_hammer.name=钻石锤
+item.copper_hammer.name=铜锤
+item.bronze_hammer.name=青铜锤
+item.jade_hammer.name=绿玉锤
+item.amethyst_hammer.name=紫晶锤
+
+// Scythes
+item.wooden_scythe.name=木质镰刀
+item.stone_scythe.name=石质镰刀
+item.iron_scythe.name=铁质镰刀
+item.gold_scythe.name=金质镰刀
+item.diamond_scythe.name=钻石镰刀
+item.copper_scythe.name=铜质镰刀
+item.bronze_scythe.name=青铜镰刀
+item.jade_scythe.name=绿玉镰刀
+item.amethyst_scythe.name=紫晶镰刀
+
+// Ore blocks
+tile.amethyst_block.name=紫晶块
+tile.jade_block.name=绿玉块
+tile.copper_block.name=铜块
+tile.tin_block.name=锡块
+tile.bronze_block.name=青铜块
+tile.amethyst_ore.name=紫晶矿石
+tile.jade_ore.name=绿玉矿石
+tile.copper_ore.name=铜矿石
+tile.tin_ore.name=锡矿石
+
+// Pressure plates
+tile.diamond_pressure_plate.name=钻石压力板
+tile.copper_pressure_plate.name=铜质压力板
+tile.tin_pressure_plate.name=锡质压力板
+tile.bronze_pressure_plate.name=青铜压力板
+tile.amethyst_pressure_plate.name=紫晶压力板
+tile.jade_pressure_plate.name=绿玉压力板
+tile.emerald_pressure_plate.name=绿宝石压力板
+tile.quartz_pressure_plate.name=石英压力板
+
+// Bars
+tile.stone_bars.name=石质栏杆
+tile.gold_bars.name=金质栏杆
+tile.diamond_bars.name=钻石栏杆
+tile.copper_bars.name=铜质栏杆
+tile.tin_bars.name=锡栏杆
+tile.bronze_bars.name=青铜栏杆
+tile.amethyst_bars.name=紫晶栏杆
+tile.jade_bars.name=绿玉栏杆
+tile.emerald_bars.name=绿宝石栏杆
+tile.quartz_bars.name=石英栏杆
+
+// Trapdoors
+tile.stone_trapdoor.name=石质活板门
+tile.gold_trapdoor.name=金质活板门
+tile.diamond_trapdoor.name=钻石活板门
+tile.copper_trapdoor.name=铜质活板门
+tile.tin_trapdoor.name=锡质活板门
+tile.bronze_trapdoor.name=青铜活板门
+tile.amethyst_trapdoor.name=紫晶活板门
+tile.jade_trapdoor.name=绿玉活板门
+tile.emerald_trapdoor.name=绿宝石活板门
+tile.quartz_trapdoor.name=石英活板门
+
+// Buttons
+tile.iron_button.name=铁按钮
+tile.gold_button.name=金按钮
+tile.diamond_button.name=钻石按钮
+tile.copper_button.name=铜按钮
+tile.tin_button.name=锡质按钮
+tile.bronze_button.name=青铜按钮
+tile.amethyst_button.name=紫晶按钮
+tile.jade_button.name=绿玉按钮
+tile.emerald_button.name=绿宝石按钮
+tile.quartz_button.name=石英按钮
+
+// Fence
+tile.dark_nether_bricks_fence.name=黑色地狱砖栅栏
+tile.red_nether_bricks_fence.name=红色地狱砖栅栏
+
+// Fence gates
+tile.nether_bricks_fence_gate.name=地狱砖栅栏门
+tile.dark_nether_bricks_fence_gate.name=黑色地狱砖栅栏门
+tile.red_nether_bricks_fence_gate.name=红色地狱砖栅栏门
+
+// Colour blocks
+tile.colour_block_white.name=白色色块
+tile.colour_block_light_gray.name=浅灰色色块
+tile.colour_block_gray.name=灰色色块
+tile.colour_block_black.name=黑色色块
+tile.colour_block_light_blue.name=浅蓝色色块
+tile.colour_block_cyan.name=青色色块
+tile.colour_block_blue.name=蓝色色块
+tile.colour_block_light_green.name=浅绿色色块
+tile.colour_block_green.name=绿色色块
+tile.colour_block_yellow.name=黄色色块
+tile.colour_block_orange.name=橙色色块
+tile.colour_block_brown.name=棕色色块
+tile.colour_block_magenta.name=品红色色块
+tile.colour_block_purple.name=紫色色块
+tile.colour_block_pink.name=粉色色块
+tile.colour_block_red.name=红色色块
+tile.colour_changing_block.name=彩色渐变色块
+
+// Glowing colour blocks
+tile.glowing_colour_block_white.name=荧光白色色块
+tile.glowing_colour_block_light_gray.name=荧光浅灰色色块
+tile.glowing_colour_block_gray.name=荧光灰色色块
+tile.glowing_colour_block_black.name=荧光黑色色块
+tile.glowing_colour_block_light_blue.name=荧光浅蓝色色块
+tile.glowing_colour_block_cyan.name=荧光青色色块
+tile.glowing_colour_block_blue.name=荧光蓝色色块
+tile.glowing_colour_block_light_green.name=荧光浅绿色色块
+tile.glowing_colour_block_green.name=荧光绿色色块
+tile.glowing_colour_block_yellow.name=荧光黄色色块
+tile.glowing_colour_block_orange.name=荧光橙色色块
+tile.glowing_colour_block_brown.name=荧光棕色色块
+tile.glowing_colour_block_magenta.name=荧光品红色色块
+tile.glowing_colour_block_purple.name=荧光紫色色块
+tile.glowing_colour_block_pink.name=荧光粉色色块
+tile.glowing_colour_block_red.name=荧光红色色块
+tile.glowing_colour_changing_block.name=荧光彩色渐变色块
+
+// Coloured stone bricks
+tile.coloured_stone_bricks_white.name=白色石砖
+tile.coloured_stone_bricks_light_gray.name=浅灰色石砖
+tile.coloured_stone_bricks_gray.name=灰色石砖
+tile.coloured_stone_bricks_black.name=黑色石砖
+tile.coloured_stone_bricks_light_blue.name=浅蓝色石砖
+tile.coloured_stone_bricks_cyan.name=青色石砖
+tile.coloured_stone_bricks_blue.name=蓝色石砖
+tile.coloured_stone_bricks_light_green.name=浅绿色石砖
+tile.coloured_stone_bricks_green.name=绿色石砖
+tile.coloured_stone_bricks_yellow.name=黄色石砖
+tile.coloured_stone_bricks_orange.name=橙色石砖
+tile.coloured_stone_bricks_brown.name=棕色石砖
+tile.coloured_stone_bricks_magenta.name=品红色石砖
+tile.coloured_stone_bricks_purple.name=紫色石砖
+tile.coloured_stone_bricks_pink.name=粉色石砖
+tile.coloured_stone_bricks_red.name=红色石砖
+tile.colour_changing_stone_bricks.name=彩色渐变石砖
+
+// Glowing coloured stone bricks
+tile.glowing_coloured_stone_bricks_white.name=荧光白色石砖
+tile.glowing_coloured_stone_bricks_light_gray.name=荧光浅灰色石砖
+tile.glowing_coloured_stone_bricks_gray.name=荧光灰色石砖
+tile.glowing_coloured_stone_bricks_black.name=荧光黑色石砖
+tile.glowing_coloured_stone_bricks_light_blue.name=荧光浅蓝色石砖
+tile.glowing_coloured_stone_bricks_cyan.name=荧光青色石砖
+tile.glowing_coloured_stone_bricks_blue.name=荧光蓝色石砖
+tile.glowing_coloured_stone_bricks_light_green.name=荧光浅绿色石砖
+tile.glowing_coloured_stone_bricks_green.name=荧光绿色石砖
+tile.glowing_coloured_stone_bricks_yellow.name=荧光黄色石砖
+tile.glowing_coloured_stone_bricks_orange.name=荧光橙色石砖
+tile.glowing_coloured_stone_bricks_brown.name=荧光棕色石砖
+tile.glowing_coloured_stone_bricks_magenta.name=荧光品红色石砖
+tile.glowing_coloured_stone_bricks_purple.name=荧光紫色石砖
+tile.glowing_coloured_stone_bricks_pink.name=荧光粉色石砖
+tile.glowing_coloured_stone_bricks_red.name=荧光红色石砖
+tile.glowing_colour_changing_stone_bricks.name=荧光彩色渐变石砖
+
+// Coloured stone
+tile.coloured_stone_white.name=白色石头
+tile.coloured_stone_light_gray.name=浅灰色石头
+tile.coloured_stone_gray.name=灰色石头
+tile.coloured_stone_black.name=黑色石头
+tile.coloured_stone_light_blue.name=浅蓝色石头
+tile.coloured_stone_cyan.name=青色石头
+tile.coloured_stone_blue.name=蓝色石头
+tile.coloured_stone_light_green.name=浅绿色石头
+tile.coloured_stone_green.name=绿色石头
+tile.coloured_stone_yellow.name=黄色石头
+tile.coloured_stone_orange.name=橙色石头
+tile.coloured_stone_brown.name=棕色石头
+tile.coloured_stone_magenta.name=品红色石头
+tile.coloured_stone_purple.name=紫色石头
+tile.coloured_stone_pink.name=粉色石头
+tile.coloured_stone_red.name=红色石头
+tile.colour_changing_stone.name=彩色渐变石头
+
+// Glowing coloured stone
+tile.glowing_coloured_stone_white.name=荧光白色石头
+tile.glowing_coloured_stone_light_gray.name=荧光浅灰色石头
+tile.glowing_coloured_stone_gray.name=荧光灰色石头
+tile.glowing_coloured_stone_black.name=荧光黑色石头
+tile.glowing_coloured_stone_light_blue.name=荧光浅蓝色石头
+tile.glowing_coloured_stone_cyan.name=荧光青色石头
+tile.glowing_coloured_stone_blue.name=荧光蓝色石头
+tile.glowing_coloured_stone_light_green.name=荧光浅绿色石头
+tile.glowing_coloured_stone_green.name=荧光绿色石头
+tile.glowing_coloured_stone_yellow.name=荧光黄色石头
+tile.glowing_coloured_stone_orange.name=荧光橙色石头
+tile.glowing_coloured_stone_brown.name=荧光棕色石头
+tile.glowing_coloured_stone_magenta.name=荧光品红色石头
+tile.glowing_coloured_stone_purple.name=荧光紫色石头
+tile.glowing_coloured_stone_pink.name=荧光粉色石头
+tile.glowing_coloured_stone_red.name=荧光红色石头
+tile.glowing_colour_changing_stone.name=荧光彩色渐变石头
+
+// Coloured cobblestone
+tile.coloured_cobblestone_white.name=白色圆石
+tile.coloured_cobblestone_light_gray.name=浅灰色圆石
+tile.coloured_cobblestone_gray.name=灰色圆石
+tile.coloured_cobblestone_black.name=黑色圆石
+tile.coloured_cobblestone_light_blue.name=浅蓝色圆石
+tile.coloured_cobblestone_cyan.name=青色圆石
+tile.coloured_cobblestone_blue.name=蓝色圆石
+tile.coloured_cobblestone_light_green.name=浅绿色圆石
+tile.coloured_cobblestone_green.name=绿色圆石
+tile.coloured_cobblestone_yellow.name=黄色圆石
+tile.coloured_cobblestone_orange.name=橙色圆石
+tile.coloured_cobblestone_brown.name=棕色圆石
+tile.coloured_cobblestone_magenta.name=品红色圆石
+tile.coloured_cobblestone_purple.name=紫色圆石
+tile.coloured_cobblestone_pink.name=粉色圆石
+tile.coloured_cobblestone_red.name=红色圆石
+tile.colour_changing_cobblestone.name=彩色渐变圆石
+
+// Glowing coloured cobblestone
+tile.glowing_coloured_cobblestone_white.name=荧光白色圆石
+tile.glowing_coloured_cobblestone_light_gray.name=荧光浅灰色圆石
+tile.glowing_coloured_cobblestone_gray.name=荧光灰色圆石
+tile.glowing_coloured_cobblestone_black.name=荧光黑色圆石
+tile.glowing_coloured_cobblestone_light_blue.name=荧光浅蓝色圆石
+tile.glowing_coloured_cobblestone_cyan.name=荧光青色圆石
+tile.glowing_coloured_cobblestone_blue.name=荧光蓝色圆石
+tile.glowing_coloured_cobblestone_light_green.name=荧光浅绿色圆石
+tile.glowing_coloured_cobblestone_green.name=荧光绿色圆石
+tile.glowing_coloured_cobblestone_yellow.name=荧光黄色圆石
+tile.glowing_coloured_cobblestone_orange.name=荧光橙色圆石
+tile.glowing_coloured_cobblestone_brown.name=荧光棕色圆石
+tile.glowing_coloured_cobblestone_magenta.name=荧光品红色圆石
+tile.glowing_coloured_cobblestone_purple.name=荧光紫色圆石
+tile.glowing_coloured_cobblestone_pink.name=荧光粉色圆石
+tile.glowing_coloured_cobblestone_red.name=荧光红色圆石
+tile.glowing_colour_changing_cobblestone.name=荧光彩色渐变圆石
+
+// Seamless blocks
+tile.seamless_stone_slab.name=无缝石块
+tile.seamless_oak_log.name=无缝橡木原木
+tile.seamless_birch_log.name=无缝桦木原木
+tile.seamless_spruce_log.name=无缝云杉原木
+tile.seamless_jungle_log.name=无缝丛林原木
+tile.seamless_acacia_log.name=无缝金合欢原木
+tile.seamless_dark_oak_log.name=无缝深色橡木原木
+tile.seamless_smooth_sandstone.name=无缝平滑沙石
+tile.seamless_smooth_red_sandstone.name=无缝红色平滑沙石
+
+// Map making blocks
+tile.invisible_pressure_plate.name=屏障压力板
+tile.glowing_barrier.name=荧光屏障
+tile.glowing_air.name=空气发光屏障
+tile.block_of_death.name=死亡之石
+
+// Machines
+tile.crusher.name=粉碎机
+
+// World
+tile.yellow_tulip.name=黄色郁金香
+tile.blue_tulip.name=蓝色郁金香
+tile.black_tulip.name=黑色郁金香
+tile.green_tulip.name=绿色郁金香
+tile.purple_tulip.name=紫色郁金香
+
+// Misc blocks
+tile.null_block.name=Null Block
+tile.scaffolding_block.name=脚手架
+tile.colour_changing_wool.name=彩色渐变羊毛
+tile.colour_changing_clay.name=彩色渐变硬化粘土
+tile.colour_changing_glass.name=彩色渐变玻璃
+
+// Stone blocks
+tile.basalt.name=玄武岩
+tile.basalt_bricks.name=玄武岩砖
+tile.polished_basalt.name=光滑玄武岩
+tile.polished_stone.name=抛光石头
+tile.granite_bricks.name=花岗岩砖
+tile.andesite_bricks.name=安山岩砖
+tile.diorite_bricks.name=闪长岩砖
+tile.sandy_bricks.name=沙砖
+tile.sandy_stone_bricks.name=沙石砖
+
+// Nether blocks
+tile.dark_nether_bricks.name=黑色地狱砖
+
+// Patterns
+item.wooden_pattern.name=木质模具
+item.wooden_pattern_bars.name=栏杆模具
+item.wooden_pattern_button.name=按钮模具
+item.wooden_pattern_pressure_plate.name=压力板模具
+item.wooden_pattern_trapdoor.name=活板门模具
+item.wooden_pattern_wall.name=墙模具
+item.wooden_pattern_fence.name=栅栏模具
+item.wooden_pattern_fence_gate.name=栅栏门模具
+item.wooden_pattern_stairs.name=楼梯模具
+
+// Chests
+tile.iron_chest.name=铁箱子
+
+// Metal walls
+tile.iron_wall.name=铁墙
+tile.gold_wall.name=金墙
+tile.diamond_wall.name=钻石墙
+tile.emerald_wall.name=绿宝石墙
+tile.quartz_wall.name=石英墙
+tile.copper_wall.name=铜墙
+tile.tin_wall.name=锡墙
+tile.bronze_wall.name=青铜墙
+tile.jade_wall.name=绿玉墙
+tile.amethyst_wall.name=紫晶墙
+
+// Walls
+tile.stone_wall.name=石墙
+tile.granite_wall.name=花岗岩墙
+tile.andesite_wall.name=安山岩墙
+tile.diorite_wall.name=闪长岩墙
+tile.basalt_wall.name=玄武岩墙
+tile.brick_wall.name=沙砖墙
+tile.stonebrick_wall.name=石砖墙
+tile.andesite_bricks_wall.name=安山岩砖墙
+tile.diorite_bricks_wall.name=闪长岩砖墙
+tile.granite_bricks_wall.name=花岗岩砖墙
+tile.basalt_bricks_wall.name=玄武岩砖墙
+tile.sandy_stone_bricks_wall.name=沙石砖墙
+
+// Metal stairs
+tile.coal_stairs.name=煤炭块楼梯
+tile.iron_stairs.name=铁楼梯
+tile.gold_stairs.name=金楼梯
+tile.lapis_stairs.name=青金石楼梯
+tile.redstone_stairs.name=红石楼梯
+tile.diamond_stairs.name=钻石楼梯
+tile.emerald_stairs.name=绿宝石楼梯
+tile.tin_stairs.name=锡楼梯
+tile.copper_stairs.name=铜楼梯
+tile.bronze_stairs.name=青铜楼梯
+tile.jade_stairs.name=绿玉楼梯
+tile.amethyst_stairs.name=紫晶楼梯
+
+// Stone stairs
+tile.stone_stairs.name=Stone Stairs
+tile.granite_stairs.name=花岗岩楼梯
+tile.andesite_stairs.name=安山岩楼梯
+tile.diorite_stairs.name=闪长岩楼梯
+tile.basalt_stairs.name=玄武岩楼梯
+tile.granite_bricks_stairs.name=花岗岩砖楼梯
+tile.andesite_bricks_stairs.name=安山岩砖楼梯
+tile.diorite_bricks_stairs.name=闪长岩楼梯
+tile.basalt_bricks_stairs.name=玄武岩楼梯
+tile.sandy_stone_bricks_stairs.name=沙石砖楼梯
+
+// Wood stairs
+tile.oak_log_stairs.name=橡木楼梯
+tile.birch_log_stairs.name=桦木楼梯
+tile.spruce_log_stairs.name=云杉木楼梯
+tile.jungle_log_stairs.name=丛林木楼梯
+tile.acacia_log_stairs.name=金合欢木楼梯
+tile.dark_oak_log_stairs.name=深色橡木楼梯
+tile.seamless_oak_log_stairs.name=无缝橡木楼梯
+tile.seamless_birch_log_stairs.name=无缝桦木楼梯
+tile.seamless_spruce_log_stairs.name=无缝云杉木楼梯
+tile.seamless_jungle_log_stairs.name=无缝丛林木楼梯
+tile.seamless_acacia_log_stairs.name=无缝金合欢木楼梯
+tile.seamless_dark_oak_log_stairs.name=无缝深色橡木楼梯
+
+// Sandstone stairs
+tile.seamless_smooth_sandstone_stairs.name=无缝平滑沙石楼梯
+tile.seamless_smooth_red_sandstone_stairs.name=无缝红色平滑沙石楼梯
+
+// Prismarine stairs
+tile.prismarine_stairs.name=海晶石楼梯
+tile.prismarine_bricks_stairs.name=海晶石砖楼梯
+tile.dark_prismarine_stairs.name=暗海晶石楼梯
+
+// Misc stairs
+tile.obsidian_stairs.name=黑曜石楼梯
+tile.end_stone_bricks_stairs.name=末地石砖楼梯
+tile.bone_stairs.name=骨块楼梯
+tile.red_nether_bricks_stairs.name=红色地狱砖楼梯
+tile.dark_nether_bricks_stairs.name=黑色地狱砖楼梯
+
+// Contianers
+container.tile_entity_crusher.name=粉碎机
+container.tile_entity_iron_chest.name=铁箱子
+
+// Creative tabs
+itemGroup.creativeTab=MCrafterzz模组
+itemGroup.creativeTabTools=MCrafterzz模组 工具/盔甲
+itemGroup.creativeTabBuilding=MCrafterzz模组 建筑/红石
+itemGroup.creativeTabMapMaking=MCrafterzz模组 地图制作
+itemGroup.creativeTabWorkInProgress=MCrafterzz模组 正在制作中
+itemGroup.creativeTabWorld=MCrafterzz模组 世界生成
+itemGroup.creativeTabSmallerBuildingBlocks=MCrafterzz模组 小型建筑方块
+
+// Commands
+commands.setblocks.failed=没有填充的方块
+commands.setblocks.outOfWorld=一个或多个目标方块处于未加载或无效位置
+commands.setblocks.success=已填充%s个块
+commands.setblocks.tagError=无效的数据标记: %s
+commands.setblocks.tooManyBlocks=指定区域的方块过多 (%s > %s)
+commands.setblocks.usage=/setblocks <x1> <y1> <z1> <x2> <y2> <z2> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+commands.mm.name=Name: MCrafterzz Mod
+commands.mm.modid=Mod Id: mm
+commands.mm.version=Version: 3.9.1
+commands.mm.minecraftversion=Minecraft适宜版本: 1.9.4, 1.10, 1.10.2
+commands.mm.creator=Creator: MCrafterzz
+commands.mm.updatepage=更新地址: http://minecraft.curseforge.com/projects/mcrafterzz-mod/
+commands.tpdimension.usage=/tpdimension <DimensionId> OR /tpdimension <Entity> <DimensionId>
+commands.tpdimension.success=将传送的%s传送到维度%s
+
+// Achievements
+achievement.copperminer=铜矿工
+achievement.copperminer.desc=找到一块铜矿并挖掉它
+achievement.tinminer=锡矿工
+achievement.tinminer.desc=找到一块锡矿挖掉它
+achievement.bronzecreator=青铜制作者
+achievement.bronzecreator.desc=用一个锡锭和三个铜锭合成青铜锭
+achievement.amethystminer=紫晶矿工
+achievement.amethystminer.desc=找到一块紫晶矿石并挖掉它
+achievement.diamondUpgrade=钻石升级
+achievement.diamondUpgrade.desc=用钻石剑，镐，斧，铲和锄制作一把钻石多功能工具
+achievement.amethystUpgrade=紫晶升级
+achievement.amethystUpgrade.desc=用紫晶剑，镐，斧，铲和锄制作一把紫晶多功能工具
+achievement.theOpTool=终极工具
+achievement.theOpTool.desc=用4个紫晶块、4个紫晶多功能工具和一个下界之星合成终极多功能工具
+achievement.moreFlowers=更多花！
+achievement.moreFlowers.desc=拿到蓝色、黑色、黄色、绿色或紫色郁金香
+
+// Config
+worldgeneration=世界生成
+advancedworldgeneration=高级世界生成
+crafting=制作
+
+// Death Sources
+death.attack.deathBlock=%1$s 发现死亡之石是非常危险的
+death.attack.deathBlock.player=%1$s 与 %2$s 作战时发现死亡之石是非常危险的
