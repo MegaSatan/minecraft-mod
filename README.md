@@ -1,3 +1,7 @@
+This is a fork of MCrafterzz mod, who has stated on his curseforge page linked below that anyone who wishes to fork and update the mod may do so freely (with due credit).
+
+Original readme below
+
 # MCrafterzz mod
 This mod adds a lot of stuff. More info can be found here: http://minecraft.curseforge.com/projects/mcrafterzz-mod
 
